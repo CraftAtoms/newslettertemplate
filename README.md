@@ -1,4 +1,4 @@
-### React-Newsletter-Template
+# React-Newsletter-Template
 
 ---
 
